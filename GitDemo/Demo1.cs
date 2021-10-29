@@ -6,9 +6,14 @@ namespace GitDemo
 {
     class Demo1
     {
-        public  void Demo()
+        public static void Demo()
         {
+            Console.WriteLine("this is Demo1111111111111");
+
             Console.WriteLine(" this is demo2 ");
         }
+        
+      
+        
     }
 }
